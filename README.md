@@ -13,7 +13,7 @@
 ## 3. @Entity 어노테이션을 이용해서 아래의 스키마를 만족하는 테이블이 생성되도록 만드세요 (10점)
 테이블 명 : Student
 
-컬럼명 : student_number
+컬럼명 : student_number
 - type : 문자열
 - primary key
 
