@@ -29,7 +29,7 @@
 ## 4. Spring Boot로 StudnetController 를 만들고 Rest API가 호출될시 3번문제의 테이블에 값이 저장되도록 만드세요 (10점)
 - method : POST
 - url : /api/students
-- body(JSON) : {"studentNumber":"2007261051","name":"진용화","grde":1}
+- body(JSON) : {"studentNumber":"2007261051","name":"진용화","grade":1}
 ![image](https://github.com/JinYongHwa/sprintboot-midterm1/assets/21700482/65c4a732-2088-44e6-915b-88203f7c5df3)
 
 
