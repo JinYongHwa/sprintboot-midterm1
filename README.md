@@ -34,8 +34,5 @@
 
 
 ## 5. Spring Boot로 StudentViewController 를 만들고 "/students" 로 접속했을때  위에서 입력한 학생 데이터가 나오도록 만드세요,단 css는 아래의 화면과 다르게나와도 정답으로 인정(10점)
-![image](https://github.com/JinYongHwa/sprintboot-midterm1/assets/21700482/108430a7-9077-41d1-9105-5fcd3707e84b)
-
-
-
+![image](https://github.com/JinYongHwa/sprintboot-midterm1/assets/21700482/1c2e5e12-2ee7-4c2c-b599-9b7d4e009693)
 
